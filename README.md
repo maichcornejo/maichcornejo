@@ -21,7 +21,7 @@ I'm a Computer Science student and Junior Developer from Argentina 🇦🇷, wit
 ## 📫 How to reach me
 - 📧 Email: [maichcornejo@gmail.com](mailto:maichcornejo@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/maiacornejo](https://www.linkedin.com/in/maia-cornejo-guilligan/) 
-- 🛠️ Fiverr: [Your Fiverr Profile](https://es.fiverr.com/s/qDryPql) 
+- 🛠️ Fiverr: [maichcornejo](https://es.fiverr.com/s/qDryPql) 
 
 ## ✨ Fun fact
 I enjoy turning messy data or broken code into something clean and useful 😄
