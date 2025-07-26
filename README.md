@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Maia Cornejo
 
-<!--
-**maichcornejo/maichcornejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and Junior Developer from Argentina 🇦🇷, with experience in web development, content management and teamwork. I enjoy learning new technologies and solving real problems through code.
 
-Here are some ideas to get you started:
+## 💻 Technologies I work with
+- **Languages:** Python, Java, JavaScript, PHP
+- **Frameworks/Tools:** Flask, Node.js, Uvicorn, Docker, WordPress
+- **Databases:** MySQL, PostgreSQL
+- **Version control:** Git & GitHub
+- **Extras:** Google Ads, Excel, Microsoft Office
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 I'm currently learning
+- Artificial Intelligence fundamentals (Python & ML basics)  
+- Infrastructure & deployment tools (Docker, K3s, CI/CD)
+
+## 🌱 Goals for this year
+- Contribute to open source projects  
+- Launch my first freelance projects on Fiverr  
+- Learn more about AI and cloud infrastructure
+
+## 📫 How to reach me
+- 📧 Email: [maichcornejo@gmail.com](mailto:maichcornejo@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/maiacornejo](https://www.linkedin.com/in/maiacornejo) *(add your real link)*
+- 🛠️ Fiverr: [Your Fiverr Profile](https://www.fiverr.com/yourusername) *(optional)*
+
+## ✨ Fun fact
+I enjoy turning messy data or broken code into something clean and useful 😄
