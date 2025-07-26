@@ -6,7 +6,7 @@ I'm a Computer Science student and Junior Developer from Argentina 🇦🇷, wit
 - **Languages:** Python, Java, JavaScript, PHP
 - **Frameworks/Tools:** Flask, Node.js, Uvicorn, Docker, WordPress
 - **Databases:** MySQL, PostgreSQL
-- **Version control:** Git & GitHub
+- **Version control:** Git, GitLab & GitHub
 - **Extras:** Google Ads, Excel, Microsoft Office
 
 ## 🧠 I'm currently learning
